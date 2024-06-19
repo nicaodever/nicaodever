@@ -2,7 +2,7 @@
 
 [![Instagram](
     https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](nicolas.cp213@gmail.com)  [![Linkedin](
+)]([nicolas.cp213@gmail.com](https://www.instagram.com/nicolau.cp/))  [![Linkedin](
     https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/nicolas-pimentel-828838284/)
 
