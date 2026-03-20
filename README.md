@@ -9,7 +9,7 @@ email: nicolas.cp213@gmail.com
 )](https://www.linkedin.com/in/nicolas-pimentel-828838284/)
 
  ## Tecnologias
-[![My Skills](https://skillicons.dev/icons?i=c,java,python,kotlin,html,css,javascript,nodejs,express,mysql,linux,androidstudio,arduino,git,bootstrap,ps,ai,figma,xd&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,python,linux,androidstudio,git,gitlab,xd&theme=light)](https://skillicons.dev)
 
    <img align="center" alt="html5" src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white" >   
   </div>
